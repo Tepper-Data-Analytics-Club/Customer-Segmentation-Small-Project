@@ -8,6 +8,9 @@
 5) The python file contains few snippets of code written already. Carefully go thorugh the comments, and follow the steps listed in the comments to progress towward the end goal.
 ---------------------------------------------------------------------------------------
 
+Broadly, coming up with a machine learning covers : Data Preparation, analysis, classification and making predictions. 
+The current milestones cover complete data preparation and a part of analysis.
+
 Get in touch with your assigned mentors when you need help!
 
 Just three words - Enjoy your learning!
